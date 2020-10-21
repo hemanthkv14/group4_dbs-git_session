@@ -8,14 +8,13 @@ shilpa
 Hi this is V Hemanth Kumar
 
 Hi this is V Hemanth Kumar
-<<<<<<< HEAD
 reeram bangaru here
-=======
 sreeram bangaru here
->>>>>>> 2407a8a45052048a41e99f9ed971b8df3f67372e
 Lets wait for conflict
 
 No body found any conflict??
 Ok let's go for lunch
 
 Got conflict! 
+
+This is line changed by vishwaksen
